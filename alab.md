@@ -21,5 +21,4 @@ Projected to reduce time spent on email replies by 38.1%, leading to time saving
 
 - Devise a more efficient method to identify task categories, such as delivery or rolling requests, to address scalability challenges posed by manually identifying tasks and potential missed categories when new emails of different categories enter the system.
 
-
-[Back](README.md)
+[Go Back](README.md)
