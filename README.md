@@ -28,13 +28,15 @@ Happy to connect and have a discussion!
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
 
+[Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success)
+
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 
 [Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization)
 
-[Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success)
+
 
 
 
