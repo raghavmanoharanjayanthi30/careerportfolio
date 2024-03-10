@@ -1,11 +1,11 @@
 # About
-Hello! 👋 I'm Raghav, a Masters of Business Analytics candidate at MIT, graduating in August 2024. Currently a Graduate Research Assistant at MIT, collaborating with Massachusetts General Hospital on machine learning for automating and improving kidney transplant patient donor matching decisions.<br><br>
+Hello! 👋 I'm Raghav, a Masters of Business Analytics candidate at MIT, graduating in August 2024. Currently a Graduate Research Assistant at MIT, collaborating with Massachusetts General Hospital on machine learning for automating and improving kidney transplant patient donor matching decisions.<br>
 
-I graduated with Highest Honors in Biomedical Engineering from Georgia Tech in May 2023. Previous experience includes machine learning research in prostate cancer cell classification and internships at Abiomed and Flow MedTech.<br><br>
+I graduated with Highest Honors in Biomedical Engineering from Georgia Tech in May 2023. Previous experience includes machine learning research in prostate cancer cell classification and internships at Abiomed and Flow MedTech.<br>
 
-Passionate about leveraging data science and machine learning to enhance business decisions.<br><br>
+Passionate about leveraging data science and machine learning to enhance business decisions.<br>
 
-I'm also proud to share that I began learning mental arithmetic at age 4 through SIP ABACUS. I completed all 13 levels, won an International Competition, and 4 national competitions in India. I was privileged to meet Ms. Pratibha Patil, President of India at the time, as one of the few selected students. Also delivered a TED Talk at my high school, garnering 26,000+ Youtube views. Here is the video: [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM) <br><br>
+I'm also proud to share that I began learning mental arithmetic at age 4 through SIP ABACUS. I completed all 13 levels, won an International Competition, and 4 national competitions in India. I was privileged to meet Ms. Pratibha Patil, President of India at the time, as one of the few selected students. Also delivered a TED Talk at my high school, garnering 26,000+ Youtube views. Here is the video: [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM) <br>
 
 Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
