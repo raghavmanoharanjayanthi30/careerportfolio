@@ -34,7 +34,7 @@ Happy to connect and have a discussion!
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 
-[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Final%20Report.pdf)
+[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)
 
 
 
