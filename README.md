@@ -5,7 +5,7 @@ I graduated with Highest Honors in Biomedical Engineering from Georgia Tech in M
 
 Passionate about leveraging data science and machine learning to enhance business decisions.
 
-I'm proud to share that the starting at the age of 4, I learned mental arithmetic through SIP ABACUS. I completed all the levels, won an International Competition and 4 national competitions in India and was recognized with the priviledge of one of few students selected to Ms. Pratibha Patil, President of India. I was one of two students chosen at my high school to deliver a TED Talk about how ABACUS has helped my life and here is the talk with 26,000+ views [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM):  
+I'm proud to share that the starting at the age of 4, I learned mental arithmetic through SIP ABACUS. I completed all the levels, won an International Competition and 4 national competitions in India and was recognized with the priviledge of one of few students selected to Ms. Pratibha Patil, President of India. I was one of two students chosen at my high school to deliver a TED Talk about how ABACUS has helped my life and here is the talk [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM) (26,000+ views on Youtube) :  
 
 Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
