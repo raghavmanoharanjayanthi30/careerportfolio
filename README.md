@@ -34,8 +34,7 @@ In today's social media landscape, platforms like X (formerly Twitter) serve as 
 [Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success/blob/main/Analytics%20Edge%20Project%20Report.pdf)<br>
 With startup trajectories being so complicated and volatile, this project aims to build a predictive model using data analytics and machine learning. By analyzing factors like market trends, funding dynamics, and team composition from historical data, this project seeks to assess startup success potential. The model aims to provide valuable insights for both high-profile and low-profile investors, entrepreneurs, and accelerators, aiding them in making informed investment decisions in the volatile startup landscape using **Random Forest**, **XG Boost**, **Sparse Logistic Regression**, and **CART**.
 
-[Optimization Project: Stock Portfolio Optimization (see more)](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)<br>
-
+[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)<br>
 As novice investors, we were initially drawn to popular stocks, but quickly learned the complexities of the market. Pitfalls like emotional trading and market unpredictability became evident, prompting us to seek thoughtful investment strategies. Post-COVID-19, market volatility intensified, underscoring the need for careful navigation. Our project addresses these challenges by exploring portfolio optimization through **mixed-integer**, **multi-objective optimization**, aiming to design optimal portfolios for traders facing diverse constraints and scenarios.
 
 
