@@ -1,10 +1,11 @@
 # About
+Hello! 👋 I'm Raghav, a Masters of Business Analytics candidate at MIT, graduating in August 2024. Currently a Graduate Research Assistant at MIT, collaborating with Massachusetts General Hospital on machine learning for automating and improving kidney transplant patient donor matching decisions.
 
-Hello there! 👋 I’m Raghav, a Masters of Business Analytics candidate at MIT graduating in August 2024. I am currently working as a Graduate Research Assistant under the supervision of Professor Swati Gupta in collaboration with Massachusetts General Hospital, applying machine learning in kidney transplant allocation for automation and improving patient donor matching process.
+I graduated with Highest Honors in Biomedical Engineering from Georgia Tech in May 2023. Previous experience includes research on machine learning in prostate cancer and internships at Abiomed and Flow MedTech.
 
-I graduated with Highest Honors with a degree in Biomedical Engineering from Georgia Institute of Technology in May 2023. I worked as a research assistant in 2021 under the supervision of Professor Ahmet Coskun applying machine learning in prostate cancer cell image classification. I also did a couple of internships at Abiomed and Flow MedTech as a Product Development Co-op and Engineering Intern respectively.
+Passionate about leveraging data science and machine learning to enhance business decisions.
 
-I am an aspiring data scientist passionate about applying machine learning to improve business decisions.
+I'm proud to share that the starting at the age of 4, I learned mental arithmetic through SIP ABACUS. I completed all the levels, won an International Competition and 4 national competitions in India and was recognized with the priviledge of one of few students selected to Ms. Pratibha Patil, President of India. I was one of two students chosen at my high school to deliver a TED Talk about how ABACUS has helped my life and here is the talk with 26,000+ views [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM):  
 
 Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
