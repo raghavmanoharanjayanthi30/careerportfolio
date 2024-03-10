@@ -25,7 +25,7 @@ CMA CGM is the largest shipping company in the US and receives 100,000+ emails a
 
 [Sherlock Picasso - Marketing Tools for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
 ⭐ Won 2nd place at the MIT Google Product Hackathon<br>
-80% of small medium businesses find it difficult to attract customers. Small medium businesses have to attract customers on social media because 74% of customers make purchasing decisions online. 47% of small business medium businesses do marketing entirely on their own but they lack the marketing expertise and resources. This tool be an marketing tool aimed at helping small medium business improving their marketing. A small medium businesses can give an image and a caption for a potential Instagram post they want to use as well as their competitors. This tool will give recommendations to improve the image and caption based on analyzing whether their customers like and what has worked well for their competitors.
+80% of small and medium-sized businesses struggle to draw in customers, particularly as 74% of consumers now make purchasing decisions online. While 47% of these businesses handle marketing independently, many lack the expertise and resources needed for effective campaigns. This marketing tool aims to aid small and medium-sized businesses by offering recommendations for enhancing their social media presence. Users can submit an image and caption for a potential Instagram post, along with their competitors' Instagram user handles. This tool will give recommendations to improve the image and caption based on analyzing whether their customers like and what has worked well for their competitors.
 
 [AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon)<br>
 ⭐ Ranked Top 15% in the AI Earth Hackathon<br>
@@ -33,16 +33,22 @@ In response to the proliferation of circular solutions, there's a pressing need 
 [Demo](https://ai-earth-hackathon.streamlit.app/)
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/ML_final_report.pdf) <br>
-In today's social media landscape, platforms like X (formerly Twitter) serve as global hubs for expression. However, they grapple with the pervasive issue of hate speech, which targets individuals or groups based on identity factors. This poses significant threats to online safety and societal cohesion. Our project aims to tackle this challenge by developing a machine learning model adept at discerning between hateful and non-hateful tweets. Through a multimodal approach utilizing both textual and image data, we've created a model to detect hate speech on Twitter.
+In today's social media landscape, platforms like X (formerly Twitter) serve as global hubs for expression. However, they grapple with the pervasive issue of hate speech, which targets individuals or groups based on identity factors. This poses significant threats to online safety and societal cohesion. Our project aims to tackle this challenge by developing a machine learning model adept at discerning between hateful and non-hateful tweets. Through a multimodal approach utilizing both textual and image data, this model detects hate speech on Twitter.
 
 [Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success/blob/main/Analytics%20Edge%20Project%20Report.pdf)
+With startup trajectories being so complicated and volatile, this project aims to build a predictive model using data analytics and machine learning. By analyzing factors like market trends, funding dynamics, and team composition from historical data, this project seeks to assess startup success potential. The model aims to provide valuable insights for both high-profile and low-profile investors, entrepreneurs, and accelerators, aiding them in making informed investment decisions in the volatile startup landscape.
+
+[Optimization Project: Stock Portfolio Optimization (see more)](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)
+As novice investors in the stock market, we initially gravitated towards well-known companies and high-flying stocks. However, we soon realized the complexities involved. Common pitfalls such as lack of strategy, emotional trading, and market unpredictability became evident. This realization marked a turning point, emphasizing the need for thoughtful investment approaches. Post-COVID-19, the market's volatility became even more pronounced, necessitating careful navigation. Recognizing the importance of portfolio optimization, our project explores this art, employing optimization techniques to design optimal portfolios for traders facing these challenges under different constraints and scenarios.
 
 
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
+As a passionate movie enthusiast, I often find myself facing the common dilemma of deciding what movie to watch next. Hours can pass as I consider countless options, unsure of which one will truly interest me. That's where favorite Movie Recommender System comes in! Simply share a movie you adore, and let the magic unfold as it suggests perfect matches your interest.
+
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
+In the fast-paced world of finance, understanding market sentiment is vital for investors. However, analyzing sentiment from financial news can be time-consuming and subjective. Investors need a tool that can efficiently and objectively assess sentiment from financial news articles, providing actionable insights to make informed investment decisions. This is where this tool comes in, offering a solution to analyze sentiment from financial news to guide investment decisions.
 
-[Optimization Project: Stock Portfolio Optimization (see more)](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)
 
 
 
