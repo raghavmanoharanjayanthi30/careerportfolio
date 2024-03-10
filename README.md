@@ -26,15 +26,15 @@ Happy to connect and have a discussion!
 [AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon)<br>
 ⭐ Ranked Top 15% in the AI Earth Hackathon<br>
 
-[Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
+[Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/ML_final_report.pdf) <br>
 
-[Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success)
+[Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success/blob/main/Analytics%20Edge%20Project%20Report.pdf)
 
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 
-[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization)
+[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Final%20Report.pdf)
 
 
 
