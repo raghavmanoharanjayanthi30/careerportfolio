@@ -21,8 +21,7 @@ Happy to connect and have a discussion!
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
 **Skills and Tools:** Python, Natural Language Processing, Computer Vision
 
-[Movie Recommendation System using Content Based Filtering]
-(https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
+[Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 **Skills and Tools:** Python, Natural Language Processing, Recommendation Systems, Streamlit
 
 
