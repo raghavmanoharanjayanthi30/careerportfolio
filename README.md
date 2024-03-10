@@ -34,6 +34,7 @@ Happy to connect and have a discussion!
 
 [Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization)
 
+[Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success)
 
 
 
