@@ -20,15 +20,15 @@ Happy to connect and have a discussion!
 Click on project titles for more details
 
 [MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md) <br>
-⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>
+**⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>**
 CMA CGM is the largest shipping company in the US and receives 100,000+ emails a week. Responding to these emails consumes a lot of time for the customer service agents. This project develops an AI-powered email assistant to classify emails into different categories and generate responses to emails identified as automatable
 
 [Sherlock Picasso - Marketing Tools for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
-⭐ Won 2nd place at the MIT Google Product Hackathon<br>
+**⭐ Won 2nd place at the MIT Google Product Hackathon**
 80% of small and medium-sized businesses struggle to draw in customers, particularly as 74% of consumers now make purchasing decisions online. While 47% of these businesses handle marketing independently, many lack the expertise and resources needed for effective campaigns. This marketing tool aims to aid small and medium-sized businesses by offering recommendations for enhancing their social media presence. Users can submit an image and caption for a potential Instagram post, along with their competitors' Instagram user handles. This tool will give recommendations to improve the image and caption based on analyzing whether their customers like and what has worked well for their competitors.
 
 [AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon)<br>
-⭐ Ranked Top 15% in the AI Earth Hackathon<br>
+**⭐ Ranked Top 15% in the AI Earth Hackathon<br>**
 In response to the proliferation of circular solutions, there's a pressing need to assess their efficacy. With numerous options available, determining the most effective ones is crucial for advancing sustainable practices. As circular economy initiatives gain momentum, the abundance of available solutions necessitates a reliable method to rank and prioritize them effectively. By evaluating their impact, feasibility, and scalability, organizations can make informed decisions to drive meaningful environmental change. This tool leverages NLP techniques, Zero Shot Classification, and Gemini Pro LLM to evaluate circular economy scores on these metrics.<br>
 [Demo](https://ai-earth-hackathon.streamlit.app/)
 
