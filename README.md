@@ -1,5 +1,5 @@
 # About
-Hello! 👋 I'm Raghav, a **Masters of Business Analytics candidate at Massachusetts Institute of Technology**, graduating in August 2024. Currently a **Graduate Research Assistant** at MIT, collaborating with Massachusetts General Hospital on machine learning for automating and improving kidney transplant patient donor matching decisions.<br> I graduated with Highest Honors in Biomedical Engineering from **Georgia Institue of Technology** in May 2023. Previous experience includes **machine learning research** in **prostate cancer cell classification** and internships at Abiomed and Flow MedTech.<br>
+Hello! 👋 I'm Raghav, a **Masters of Business Analytics candidate at Massachusetts Institute of Technology**, graduating in August 2024. Currently a **Graduate Research Assistant** at MIT, collaborating with Massachusetts General Hospital on machine learning for automating and improving kidney transplant patient donor matching decisions.I graduated with Highest Honors in Biomedical Engineering from **Georgia Institue of Technology** in May 2023. Previous experience includes **machine learning research** in **prostate cancer cell classification** and internships at Abiomed and Flow MedTech.<br>
 
 I'm passionate about leveraging data science and machine learning to enhance business decisions.<br>
 
