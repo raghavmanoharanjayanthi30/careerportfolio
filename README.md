@@ -16,10 +16,10 @@ Happy to connect and have a discussion!
 # Projects
 [MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md) <br>
 ⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>
-**Skills:** Python, Natural Language Processing (NLP), Large Language Models (LLM)
+**Skills:** Python, Natural Language Processing, Large Language Models (LLM)
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
-**Skills:** Python, Natural Language Processing (NLP), Computer Vision
+**Skills:** Python, Natural Language Processing, Computer Vision
 
 
 
