@@ -23,7 +23,7 @@ Happy to connect and have a discussion!
 [Sherlock Picasso - Marketing Tools for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
 ⭐ Won 2nd place at the MIT Google Product Hackathon<br>
 
-[AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
+[AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon) <br>
 ⭐ Ranked Top 15% in the AI Earth Hackathon<br>
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
