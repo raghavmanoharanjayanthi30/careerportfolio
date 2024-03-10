@@ -1,6 +1,6 @@
 # About
 
-Hello there! 👋 I’m Raghav, a Masters of Business Analytics candidate at MIT graduating in August 2024. I am currently working as a Graduate Research Assistant under the supervision of Professor Swati Gupta in the Operations Research Center in collaboration with Massachusetts General Hospital, applying machine learning in kidney transplant allocation.
+Hello there! 👋 I’m Raghav, a Masters of Business Analytics candidate at MIT graduating in August 2024. I am currently working as a Graduate Research Assistant under the supervision of Professor Swati Gupta in =in collaboration with Massachusetts General Hospital, applying machine learning in kidney transplant allocation.
 
 I graduated with Highest Honors with a degree in Biomedical Engineering from Georgia Institute of Technology in May 2023. I worked as a research assistant in 2021 under the supervision of Professor Ahmet Coskun applying machine learning in prostate cancer. I also did a couple of internships at Abiomed and Flow MedTech as a Product Development Co-op and Engineering Intern respectively.
 
