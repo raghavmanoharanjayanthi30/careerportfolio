@@ -14,8 +14,8 @@ Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
 Happy to connect and have a discussion!
 
 # Projects
-[MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md)
-⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event
+[MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md) <br>
+⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>
 Skills: Python, Natural Language Processing (NLP), Large Language Models (LMM)
 
 
