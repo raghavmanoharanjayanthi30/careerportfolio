@@ -19,7 +19,7 @@ Happy to connect and have a discussion!
 **Skills:** Python, Natural Language Processing (NLP), Large Language Models (LLM)
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
-**Skills:** Python, Natural Language Processing (NLP), Computer Vision (LLM)
+**Skills:** Python, Natural Language Processing (NLP), Computer Vision
 
 
 
