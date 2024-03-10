@@ -5,7 +5,7 @@ I'm passionate about leveraging data science and machine learning to enhance bus
 
 I'm also proud to share that I began learning **mental arithmetic** at age 4 through SIP ABACUS. I completed all 13 levels, won **1 International Competition**, and **4 national competitions** in India. I was **privileged to meet President of India** at the time, Ms. Pratibha Patil, as one of the few selected students. Also delivered a **TED Talk** at my high school, garnering **26,000+** Youtube views. Here is the video: [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM) <br>
 
-**Please feel free to reach out to me on:<br>**
+Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rrmj/)<br>
 Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
