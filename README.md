@@ -14,22 +14,22 @@ Github: [GitHub](https://github.com/raghavmanoharanjayanthi30)<br>
 Happy to connect and have a discussion!
 
 # Projects
-[**MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant**](alab.md) <br>
+[MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md) <br>
 ⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>
 
-[**Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data**](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
+[Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
 
-[**Movie Recommendation System using Content Based Filtering**](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
+[Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 
-[**Sherlock Picasso - Marketing Tools for Small Medium Businesses**](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
+[Sherlock Picasso - Marketing Tools for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
 ⭐ Won 2nd place at the MIT Google Product Hackathon<br>
 
-[**AI Earth Hackathon - Circular Economy Evaluation Tool**](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
+[AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md) <br>
 ⭐ Ranked Top 15% in the AI Earth Hackathon<br>
 
-[**Financial News Sentiment Analysis**](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
+[Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 
-[**Optimization Project: Stock Portfolio Optimization**](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization)
+[Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization)
 
 
 
