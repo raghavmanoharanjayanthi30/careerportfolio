@@ -1,9 +1,9 @@
 # About
 Hello! 👋 I'm Raghav, a **Masters of Business Analytics** candidate at **Massachusetts Institute of Technology**, graduating in August 2024. Currently a Graduate Research Assistant at MIT under supervision of Professor Swati Gupta, I'm applying machine learning for automating and improving kidney transplant patient donor matching decisions. I graduated with Highest Honors in Biomedical Engineering from **Georgia Institue of Technology** in May 2023. Previous experience includes **machine learning research** under supervision of Professor Ahmet Coskum in prostate cancer cell classification and internships at Abiomed (acquired by Johnson & Johnson) and Flow MedTech (now Cardio REST).<br>
 
-I'm passionate about leveraging data science and machine learning to enhance business decisions.<br>
+I began learning **mental arithmetic** at age 4 through SIP ABACUS. I completed all 13 levels, won **1 International Competition**, and **4 national competitions** in India. I was **privileged to meet President of India** at the time, Ms. Pratibha Patil, as one of the few selected students. Also delivered a **TED Talk** at my high school, garnering **26,000+** Youtube views. Here is the video: [TEDx talk (What the abacus taught me)](https://www.youtube.com/watch?v=7EYWHe1yyjM) <br>
 
-I'm also proud to share that I began learning **mental arithmetic** at age 4 through SIP ABACUS. I completed all 13 levels, won **1 International Competition**, and **4 national competitions** in India. I was **privileged to meet President of India** at the time, Ms. Pratibha Patil, as one of the few selected students. Also delivered a **TED Talk** at my high school, garnering **26,000+** Youtube views. Here is the video: [TEDx talk (What the abacus taught me)](https://www.youtube.com/watch?v=7EYWHe1yyjM) <br>
+I love working with data and numbers and I'm passionate about leveraging data science and machine learning to enhance business decisions.<br>
 
 Please feel free to reach out to me on:<br>
 Email: rj30@mit.edu<br>
