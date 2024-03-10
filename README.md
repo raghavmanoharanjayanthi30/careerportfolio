@@ -26,7 +26,7 @@ Happy to connect and have a discussion!
 [AI Earth Hackathon - Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon){:target="_blank"}<br>
 ⭐ Ranked Top 15% in the AI Earth Hackathon<br>
 
-[Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) <br>
+[Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/README.md) {:target="_blank"}<br>
 
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 
