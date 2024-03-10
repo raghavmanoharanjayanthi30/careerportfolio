@@ -39,7 +39,7 @@ As novice investors, we were initially drawn to popular stocks, but quickly lear
 
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 [Demo](https://www.youtube.com/watch?v=kYPY2yMo_5E) <br>
-As a passionate movie enthusiast, I often find myself facing the common dilemma of deciding what movie to watch next. Hours can pass as I consider countless options, unsure of which one will truly interest me. That's where favorite Movie Recommender System comes in! Simply share a movie you adore, and let the magic unfold as it suggests 5 movies that are similar to you the movie you adore. The recommender system uses content-based filtering and techniques such as **TF-IDF**, **Count Vectorizer**, and **BERT**.
+As a passionate movie enthusiast, I often find myself facing the common dilemma of deciding what movie to watch next. Hours can pass as I consider countless options, unsure of which one will truly interest me. That's where favorite Movie Recommender System comes in! Simply select a movie from the list that you like, and let the magic unfold as it suggests 5 movies that are similar to the movie you selected. The recommender system uses content-based filtering and techniques such as **TF-IDF**, **Count Vectorizer**, and **BERT**.
 
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
