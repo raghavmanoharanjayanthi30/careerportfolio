@@ -16,6 +16,7 @@ Happy to connect and have a discussion!
 # Projects
 
 ## **MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant**
+Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event
 
 **Background and Problem Statement**  
 CMA CGM is the largest shipping company in the United States and handles more than 100k emails a week. However, they are currently processed manually by customer agents. There is a need for email classification and automating response generation to these emails.
