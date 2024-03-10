@@ -1,4 +1,5 @@
 ## **MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant**
+[Back to Main](README.md)
 ⭐ This project won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event.
 
 **Background and Problem Statement**  
@@ -21,5 +22,3 @@ Projected to reduce time spent on email replies by 38.1%, leading to time saving
 - Consider using an ensemble similarity detection model to strengthen the reliability of the similarity detection, especially for emails that don't fall under one of the identified categories.
 
 - Devise a more efficient method to identify task categories, such as delivery or rolling requests, to address scalability challenges posed by manually identifying tasks and potential missed categories when new emails of different categories enter the system.
-
-[Go Back](README.md)
