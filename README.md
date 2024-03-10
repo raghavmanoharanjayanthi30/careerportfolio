@@ -5,7 +5,7 @@ I graduated with Highest Honors in Biomedical Engineering from Georgia Tech in M
 
 Passionate about leveraging data science and machine learning to enhance business decisions.
 
-I'm also proud to share that I began learning mental arithmetic at age 4 through SIP ABACUS. I completed all 13 levels, won an International Competition, and 4 national competitions in India. I was privileged to meet Ms. Pratibha Patil, President of India at the time, as one of the few selected students. Also delivered a TED Talk at my high school, garnering 26,000+ Youtube views. Here is the video: [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM): 
+I'm also proud to share that I began learning mental arithmetic at age 4 through SIP ABACUS. I completed all 13 levels, won an International Competition, and 4 national competitions in India. I was privileged to meet Ms. Pratibha Patil, President of India at the time, as one of the few selected students. Also delivered a TED Talk at my high school, garnering 26,000+ Youtube views. Here is the video: [TEDx talk](https://www.youtube.com/watch?v=7EYWHe1yyjM) 
 
 
 
