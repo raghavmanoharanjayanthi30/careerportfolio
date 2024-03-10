@@ -19,7 +19,7 @@ Click on project titles for more details
 **⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>**
 CMA CGM is the largest shipping company in the US and receives 100,000+ emails a week. Responding to these emails consumes a lot of time for the customer service agents. This project develops an AI-powered email assistant to classify emails into different categories and generate responses to emails identified as automatable. Project uses **NLP**, **LLMs**.
 
-[Sherlock Picasso - Marketing Tools for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
+[Sherlock Picasso - Marketing Tool for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
 **⭐ Won 2nd place at the MIT Google Product Hackathon**<br>
 80% of small and medium-sized businesses struggle to draw in customers, particularly as 74% of consumers now make purchasing decisions online. While 47% of these businesses handle marketing independently, many lack the expertise and resources needed for effective campaigns. This tool aims to support these businesses by providing recommendations to enhance their social media presence. Users can submit an image and caption for a potential Instagram post, along with their competitors' Instagram user handles. This tool will give recommendations to improve the image and caption based on analyzing what their customers like and what has worked well for their competitors. Project uses **NLP**, **LLMs**.
 
@@ -37,10 +37,8 @@ With startup trajectories being so complicated and volatile, this project aims t
 [Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)<br>
 As novice investors, we were initially drawn to popular stocks, but quickly learned the complexities of the market. Pitfalls like emotional trading and market unpredictability became evident, prompting us to seek thoughtful investment strategies. Post-COVID-19, market volatility intensified, underscoring the need for careful navigation. Our project addresses these challenges by exploring portfolio optimization through **mixed-integer**, **multi-objective optimization**, aiming to design optimal portfolios for traders facing diverse constraints and scenarios.
 
-
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
 As a passionate movie enthusiast, I often find myself facing the common dilemma of deciding what movie to watch next. Hours can pass as I consider countless options, unsure of which one will truly interest me. That's where favorite Movie Recommender System comes in! Simply share a movie you adore, and let the magic unfold as it suggests 5 movies that are similar to you the movie you adore. The recommender system uses content-based filtering and techniques such as **TF-IDF**, **Bag of Words**, and **BERT**.
-
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 In the fast-paced world of finance, understanding market sentiment is vital for investors. However, analyzing sentiment from financial news can be time-consuming and subjective. Investors need a tool that can efficiently and objectively assess sentiment from financial news articles, providing actionable insights to make informed investment decisions. This is where this tool comes in, offering a solution to analyze sentiment from financial news to guide investment decisions.The sentiment analysis model uses techniques such as **Sentence Transformer** and **Random Forest**.
