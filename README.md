@@ -17,6 +17,7 @@ Click on project titles for more details<br>
 
 [MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant](alab.md) <br>
 **⭐ Won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event <br>**
+![Profile Picture](pictures/alab_processing_pipeline.jpg) 
 CMA CGM is the largest shipping company in the US and receives 100,000+ emails a week. Responding to these emails consumes a lot of time for the customer service agents. This project develops an AI-powered email assistant to classify emails into different categories and generate responses to emails identified as automatable. Project uses **NLP**, **LLMs**.
 
 [Sherlock Picasso: Marketing Tool for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
