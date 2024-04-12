@@ -22,6 +22,7 @@ CMA CGM is the largest shipping company in the US and receives 100,000+ emails a
 
 [Sherlock Picasso: Marketing Tool for Small Medium Businesses](https://github.com/maxime7770/Sherlock-Picasso/blob/main/README.md)<br>
 **⭐ Won 2nd place at the MIT Google Product Hackathon**<br>
+![Profile Picture](pictures/Sherlock_Picasso.jpg)
 80% of small and medium-sized businesses struggle to draw in customers, particularly as 74% of consumers now make purchasing decisions online. While 47% of these businesses handle marketing independently, many lack the expertise and resources needed for effective campaigns. This tool aims to support these businesses by providing recommendations to enhance their social media presence. Users can submit an image and caption for a potential Instagram post, along with their competitors' Instagram user handles. This tool will give recommendations to improve the image and caption based on analyzing what their customers like and what has worked well for their competitors. Project uses **NLP**, **LLMs**.
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/ML_final_report.pdf) <br>
