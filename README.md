@@ -39,7 +39,7 @@ In the fast-paced world of finance, understanding market sentiment is vital for 
 
 [AI Earth Hackathon: Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon/blob/main/README.md)<br>
 **⭐ Ranked Top 15% in the AI Earth Hackathon<br>**
-![Profile Picture](pictures/CircularEconomy_resize.jpg) <br>
+![Profile Picture](pictures/CircularEconomy_resize.png) <br>
 In response to the proliferation of circular solutions, there's a pressing need to assess their efficacy. With numerous options available, determining the most effective ones is crucial for advancing sustainable practices. As circular economy initiatives gain momentum, the abundance of available solutions necessitates a reliable method to rank and prioritize them effectively. By evaluating metrics such as relevance to problem, impact, feasibility, and scalability, organizations can make informed decisions to drive meaningful environmental change. This tool leverages **NLP techniques**, **Zero Shot Classification**, and **Gemini Pro LLM** to evaluate circular economy solutions on the aforementionned metrics and more with each metric being scored between 1-3 and an average score being used to rank the solutions.
 
 [Movie Recommendation System using Content Based Filtering](https://github.com/raghavmanoharanjayanthi30/Movie-Recommendation-System/blob/main/README.md) <br>
