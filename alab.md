@@ -13,10 +13,9 @@ Built an AI email assistant that generates recommended replies to emails based o
 **Summary**
 ![Profile Picture](pictures/summary.jpg)
 
-
-
 **Actions**  
 ![Profile Picture](pictures/alab_processing_pipeline.jpg)
+
 
 **Web Interface**
 ![Profile Picture](pictures/alab_interface.jpg)  
