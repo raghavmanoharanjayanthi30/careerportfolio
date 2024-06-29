@@ -35,7 +35,7 @@ With startup trajectories being so complicated and volatile, this project aims t
 
 **<span style="color:blue;">Marketing Tool for Uber Manager with Tableau</span>** <br>
 ![Profile Picture](pictures/uber_dashboard.png)
-
+The "Uber Updates" dashboard provides a visual summary of key performance metrics for Uber. It features comparisons of actual versus forecasted demand throughout 2023, quarterly market share against Lyft, and the impact of weather conditions on ride demand. Additionally, it includes a color-coded map showing changes in demand across different boroughs, highlighting geographical trends and variations. This dashboard serves as a tool for analyzing market dynamics and guiding strategic decisions.
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 ![Profile Picture](pictures/News.jpg) <br>
