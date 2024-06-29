@@ -33,10 +33,8 @@ In today's social media landscape, platforms like X (formerly Twitter) serve as 
 ![Profile Picture](pictures/StartUpSuccess.jpg) <br>
 With startup trajectories being so complicated and volatile, this project aims to build a predictive model using data analytics and machine learning. By analyzing factors like market trends, funding dynamics, and team composition from historical data, this project seeks to assess startup success potential. The model aims to provide valuable insights for both high-profile and low-profile investors, entrepreneurs, and accelerators, aiding them in making informed investment decisions in the volatile startup landscape using **Random Forest**, **XG Boost**, **Sparse Logistic Regression**, and **CART** achieving 75% out of sample accuracy.
 
-[AI Earth Hackathon: Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon/blob/main/README.md)<br>
-**⭐ Ranked Top 15% in the AI Earth Hackathon<br>**
-![Profile Picture](pictures/CircularEconomy.jpg) <br>
-In response to the proliferation of circular solutions, there's a pressing need to assess their efficacy. With numerous options available, determining the most effective ones is crucial for advancing sustainable practices. As circular economy initiatives gain momentum, the abundance of available solutions necessitates a reliable method to rank and prioritize them effectively. By evaluating metrics such as relevance to problem, impact, feasibility, and scalability, organizations can make informed decisions to drive meaningful environmental change. This tool leverages **NLP techniques**, **Zero Shot Classification**, and **Gemini Pro LLM** to evaluate circular economy solutions on the aforementionned metrics and more with each metric being scored between 1-3 and an average score being used to rank the solutions.
+**Marketing Tool for Uber Manager with Tableau**
+
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 ![Profile Picture](pictures/News.jpg) <br>
@@ -46,6 +44,11 @@ In the fast-paced world of finance, understanding market sentiment is vital for 
 [Demo](https://www.youtube.com/watch?v=kYPY2yMo_5E) <br>
 ![Profile Picture](pictures/Movie.jpg) <br>
 As a passionate movie enthusiast, I often find myself facing the common dilemma of deciding what movie to watch next. Hours can pass as I consider countless options, unsure of which one will truly interest me. That's where favorite Movie Recommender System comes in! Simply select a movie from the list that you like, and let the magic unfold as it suggests 5 movies that are similar to the movie you selected. The recommender system uses content-based filtering and techniques such as **TF-IDF**, **Count Vectorizer**, and **BERT**.
+
+[AI Earth Hackathon: Circular Economy Evaluation Tool](https://github.com/raghavmanoharanjayanthi30/AI-Earth-Hackathon/blob/main/README.md)<br>
+**⭐ Ranked Top 15% in the AI Earth Hackathon<br>**
+![Profile Picture](pictures/CircularEconomy.jpg) <br>
+In response to the proliferation of circular solutions, there's a pressing need to assess their efficacy. With numerous options available, determining the most effective ones is crucial for advancing sustainable practices. As circular economy initiatives gain momentum, the abundance of available solutions necessitates a reliable method to rank and prioritize them effectively. By evaluating metrics such as relevance to problem, impact, feasibility, and scalability, organizations can make informed decisions to drive meaningful environmental change. This tool leverages **NLP techniques**, **Zero Shot Classification**, and **Gemini Pro LLM** to evaluate circular economy solutions on the aforementionned metrics and more with each metric being scored between 1-3 and an average score being used to rank the solutions.
 
 [Optimization Project: Stock Portfolio Optimization](https://github.com/raghavmanoharanjayanthi30/Stock-Portfolio-Optimization/blob/main/OPT%20Project%202023_Final%20Report_US%20Stock%20Portfolio%20Optimization%20(1).pdf)<br>
 ![Profile Picture](pictures/Stock.jpg) <br>
