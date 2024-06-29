@@ -36,6 +36,7 @@ With startup trajectories being so complicated and volatile, this project aims t
 **<span style="color:blue;">Marketing Tool for Uber Manager with Tableau</span>** <br>
 ![Profile Picture](pictures/uber_dashboard.png)
 
+
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 ![Profile Picture](pictures/News.jpg) <br>
 In the fast-paced world of finance, understanding market sentiment is vital for investors. However, analyzing sentiment from financial news can be time-consuming and subjective. Investors need a tool that can efficiently and objectively assess sentiment from financial news articles, providing actionable insights to make informed investment decisions. This is where this tool comes in, offering a solution to analyze sentiment from financial news to guide investment decisions. This sentiment analysis project uses techniques like **Sentence Transformer** for text embeddings, alongside models such as **Decision Trees**, **LSTM RNNs**, and **Random Forest**, enhanced through hyperparameter tuning and architectural experimentation achieving 76% out of sample accuracy.
