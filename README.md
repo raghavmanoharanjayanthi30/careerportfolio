@@ -26,7 +26,7 @@ CMA CGM is the largest shipping company in the US and receives 100,000+ emails a
 80% of small and medium-sized businesses (SMBs) struggle with customer acquisition, especially with 74% of consumers buying online. While 47% handle marketing themselves, lacking expertise and resources hinders success. This tool aids SMBs by enhancing social media presence. Users submit an image, caption, and competitors' Instagram handles. Recommendations improve content based on customer preferences and competitor success. Project utilizes **NLP**, **LLMs**.
 
 [Machine Learning Project: Multimodal Hate Speech Detection with Twitter Data (Images and Text)](https://github.com/raghavmanoharanjayanthi30/Multimodal-Hate-Speech-Detection/blob/main/ML_final_report.pdf) <br>
-![Profile Picture](pictures/HateSpeech.jpg) <br>
+![Profile Picture](pictures/hate_speech.jpg) <br>
 In today's social media landscape, platforms like X (formerly Twitter) serve as global hubs for expression. However, they grapple with the pervasive issue of hate speech, which targets individuals or groups based on identity factors. This poses significant threats to online safety and societal cohesion. This project aims to tackle this challenge by developing a machine learning model adept at discerning between hateful and non-hateful tweets. Through a **multimodal approach** utilizing both textual and image data, this model detects hate speech on Twitter using **Convolutional Neural Networks** and **BERT Transformer Models**.
 
 [Analytics Edge Project: Predicting Startup Success](https://github.com/raghavmanoharanjayanthi30/Predicting-Startup-Success/blob/main/Analytics%20Edge%20Project%20Report.pdf)<br>
