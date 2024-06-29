@@ -33,8 +33,8 @@ In today's social media landscape, platforms like X (formerly Twitter) serve as 
 ![Profile Picture](pictures/StartUpSuccess.jpg) <br>
 With startup trajectories being so complicated and volatile, this project aims to build a predictive model using data analytics and machine learning. By analyzing factors like market trends, funding dynamics, and team composition from historical data, this project seeks to assess startup success potential. The model aims to provide valuable insights for both high-profile and low-profile investors, entrepreneurs, and accelerators, aiding them in making informed investment decisions in the volatile startup landscape using **Random Forest**, **XG Boost**, **Sparse Logistic Regression**, and **CART** achieving 75% out of sample accuracy.
 
-**Marketing Tool for Uber Manager with Tableau**
-
+**Marketing Tool for Uber Manager with Tableau** <nr>
+![Profile Picture](pictures/uber_dashboard.png) <br>
 
 [Financial News Sentiment Analysis](https://github.com/raghavmanoharanjayanthi30/Sentiment-Analysis-Financial-News) <br>
 ![Profile Picture](pictures/News.jpg) <br>
