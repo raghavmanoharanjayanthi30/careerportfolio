@@ -1,5 +1,4 @@
 ## **MIT Analytics Lab: Building CMA CGM's First AI-Powered Email Assistant**
-
 <br>
 ⭐ This project won 3rd place at the MIT Initiative on the Digital Economy’s Analytics Lab Event.
 
